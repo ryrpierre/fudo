@@ -1,0 +1,16 @@
+.banner{
+	background-image: linear-gradient(340deg, rgba(0,0,0,0.7), rgba(265,250,250,0.1)), url(../../images/fudo.png);
+	background-size: cover;
+	padding: 110px 0px;
+	background-position: center;
+}
+
+
+.banner h1{
+		text-shadow: 0 0 0.1em #BDB76B;
+}
+.banner p{
+	opacity: 0.9;
+	margin: 60px 0;
+	color: 	#BDB76B;
+}

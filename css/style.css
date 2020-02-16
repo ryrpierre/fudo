@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa|Josefin+Slab&display=swap');
+
+@import url("components/container.css");
+@import url("components/btn.css");
+@import url("components/photo.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Josefin Slab', serif;
+	margin: 0px;
+	text-align: center;
+	background-color: #314154;
+}
+
+h1{
+	font-family: 'Aref Ruqaa', serif;
+	font-size: 80px;
+}
+
+p{
+	font-weight: bold;
+	font-size: 25px; 
+	
+}
+a{
+	text-decoration: none;
+	font-family: 'Josefin Slab', serif;
+	font-weight: bold;
+	font-size: 17px;
+	color: black;
+}
+
+a:hover{
+	color: black;
+}
